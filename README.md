@@ -18,7 +18,7 @@ For now, success means to me being able to:
 # Roadmap
 
 1. one camera
- - how will camera be positioned to capture at least half the field?  (e.g., [N-foot tripod](https://www.amazon.com/Glide-Gear-Camera-Sports-Tripod/dp/B07S9VNR73) w/ [gopro]() mount)
+ - how will camera be positioned to capture at least half the field?  (e.g., [N-foot tripod](https://www.amazon.com/Glide-Gear-Camera-Sports-Tripod/dp/B07S9VNR73) w/ [gopro]() mount, or [Palo cam](https://www.youtube.com/watch?v=qaxD0aAnoFc))
  - how will wide-field-of-view lens distortion be unwarped? (e.g., [GoPro wide angle correction](https://www.rcgroups.com/forums/showthread.php?1711535-Gimp-2-8-and-GoPro-wide-angle-correction) or [ffmpeg & lens correction](http://ffmpeg.org/ffmpeg-filters.html#lenscorrection))
  - how will region-of-interest over time be determined? (e.g., [Multi-target tracking from football player tracking](https://www.researchgate.net/publication/251415375_Multi-target_Tracking_on_a_Large_Scale_Experiences_from_Football_Player_Tracking))
  - how will processing be done, given region-of-interest over time? ([]())
@@ -61,3 +61,7 @@ ffmpeg -i input.mp4 -vf "lenscorrection=0.5:0.5:-0.335:0.097" output.mp4
  - [stabilize video with ffmpeg](http://public.hronopik.de/vid.stab/)
  - [vid.stab](http://public.hronopik.de/vid.stab/features.php?lang=en)
    - [example youtube video stablizing](https://youtu.be/HYE3KAl8RAQ)
+
+# videos
+ - [DIY soccer mast](https://www.youtube.com/watch?v=y7o9BZ72U20)
+ - [Palo cam](https://www.youtube.com/watch?v=qaxD0aAnoFc), [Palocam](https://palocam.com/)
