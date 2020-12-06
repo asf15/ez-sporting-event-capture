@@ -18,7 +18,8 @@ For now, success means to me being able to:
 # Roadmap
 
 1. one camera
- - how will camera be positioned to capture at least half the field?  (e.g., N-foot tripod w/ gopro mount)
+ - how will camera be positioned to capture at least half the field?  (e.g., [N-foot tripod](https://www.amazon.com/Glide-Gear-Camera-Sports-Tripod/dp/B07S9VNR73) w/ [gopro]() mount)
+ - how will wide-field-of-view lens distortion be unwarped?
  - how will region-of-interest over time be determined?
  - how will processing be done, given region-of-interest over time?
 
@@ -28,3 +29,7 @@ For now, success means to me being able to:
 
 3. sharing
  - ..
+
+References
+ - [Multi-target tracking from football player tracking](https://www.researchgate.net/publication/251415375_Multi-target_Tracking_on_a_Large_Scale_Experiences_from_Football_Player_Tracking)
+ 
