@@ -35,6 +35,7 @@ Other resources / examples:
  - [moving video crop](https://video.stackexchange.com/questions/15417/moving-crop-in-video)
    - [trf files and ffmpeg](https://video.stackexchange.com/a/15465)
    - [trf may be slow, instead try trim filter to gen N frames and rebuild video](https://video.stackexchange.com/questions/15417/moving-crop-in-video#comment28207_19403)
+   - [other search results](https://www.google.com/search?q=ffmpeg+moving+crop)
  - [fisheye correct with gimp](https://www.rcgroups.com/forums/showthread.php?1711535-Gimp-2-8-and-GoPro-wide-angle-correction)
  - [remove gopro fisheye using ffmpeg](https://stackoverflow.com/questions/30832248/is-there-a-way-to-remove-gopro-fisheye-using-ffmpeg)
  - [Correcting lens distortion using ffmpeg](https://www.danielplayfaircal.com/blogging/ffmpeg/lensfun/v360/lenscorrection/fisheye/dodgeball/2020/03/24/correcting-lens-distortion-with-ffmpeg.html)
