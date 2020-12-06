@@ -17,14 +17,14 @@ For now, success means to me being able to:
 
 # Roadmap
 
-## one camera
-### how will camera be positioned to capture at least half the field?  (e.g., N-foot tripod w/ gopro mount)
-### how will region-of-interest over time be determined?
-### how will processing be done, given region-of-interest over time?
+ - one camera
+   - how will camera be positioned to capture at least half the field?  (e.g., N-foot tripod w/ gopro mount)
+   - how will region-of-interest over time be determined?
+   - how will processing be done, given region-of-interest over time?
 
-## multiple cameras
-### how will cameras be synched?
-### how will multiple streams be merged or selected?
+ - multiple cameras
+   - how will cameras be synched?
+   - how will multiple streams be merged or selected?
 
-## sharing
-## ..
+ - sharing
+ - ..
