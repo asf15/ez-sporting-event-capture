@@ -30,6 +30,6 @@ For now, success means to me being able to:
 3. sharing
  - ..
 
-References
+Other work
  - [Multi-target tracking from football player tracking](https://www.researchgate.net/publication/251415375_Multi-target_Tracking_on_a_Large_Scale_Experiences_from_Football_Player_Tracking)
  
